@@ -1,0 +1,7 @@
+{
+  "name": "ExpenseWise - 企业费用控制系统",
+  "description": "A comprehensive enterprise-grade budget management and expense control platform featuring budget compilation, smart application workflows, real-time analysis, and rigid control strategies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
